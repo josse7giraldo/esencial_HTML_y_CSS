@@ -1,0 +1,25 @@
+header {
+  width: 100%;
+  height: 3rem;
+  background-color: black;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.logo {
+  margin-left: 4rem;
+  color: blue;
+}
+.menu {
+  display: flex;
+  margin-right: 40px;
+}
+.menu li {
+  padding: 20px;
+}
+.contenedor {
+  display: flex;
+}
+.elemento {
+  width: 25%;
+}
